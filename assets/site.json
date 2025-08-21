@@ -1,0 +1,18 @@
+{
+  "title": "九条夏目個人網站",
+  "description": "我的個人網站",
+  "keywords": "個人網站 許家銘 九条夏目",
+  "url": "https://natsumes.cc",
+  "avatar": "/image/avatar.jpg",
+  "social_image": "/image/social_image.png",
+  "card": ["summary", "summary_large_image"],
+  "twitter_user": "@_natsume0304",
+  "theme_color": "#258cc4",
+  "footer": {
+    "author": {
+      "name": "九条夏目",
+      "link": "https://github.com/kujyonatsume"
+    },
+    "repo_link": "https://github.com/kujyonatsume/natsumes.cc"
+  }
+}
