@@ -165,6 +165,11 @@ const projects = [
 ];
 
 const timeline = [
+    {
+    date: "2025-09-16",
+    title: "新增相關連結頁面",
+    desc: "新增快速連結頁面，參考lit.link排版。",
+  },
   {
     date: "2025-08-17",
     title: "樣式及內容更新(正式上線)",
