@@ -17,7 +17,10 @@
     "nuxt-twemoji": "^3.6.2",
     "vue": "latest",
     "vue-router": "latest",
-    "vuetify-nuxt-module": "^0.18.3",
+    "vuetify-nuxt-module": "^0.16.1",
     "vuetify-sonner": "^0.3.20"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.0"
   }
 }
